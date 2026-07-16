@@ -5,7 +5,7 @@
 <div align="center">
 
 
-<img src="fig/IW-01P.gif" width="960px">
+<img src="fig/IW-01P-new.gif" width="960px">
 </div>
 
 
